@@ -2,7 +2,6 @@
 **CAD Specialist | Electrical Systems & Engineering** [ruifazendeiro@outlook.pt](mailto:ruifazendeiro@outlook.pt) | +351 962380774 | Baião, Portugal
 [LinkedIn](https://www.linkedin.com/in/rfazendeiro/) | [GitHub](https://github.com/RuiFazendeiro)
 
-> **[VIEW MY TECHNICAL PORTFOLIO HERE]** (Add your GrabCAD or Drive link here)
 
 ---
 
