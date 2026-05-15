@@ -24,6 +24,8 @@ Highly skilled CAD/ECAD Designer with extensive experience in technical drawings
 * Developed detailed **CAD drawings** for electrical transformer stations (substations) and industrial switchboards.
 * Conducted technical analysis of electrical systems and generated compliance reports and manuals.
 
+* [Interactive 3D Model - Compact Substation (STL)](./MCBA_V2.stl)
+
 ### CAD Designer | BC Engenharia
 *2024 – 2025*
 * Developed high-precision technical drawings for architecture and surveying using **AutoCAD**.
