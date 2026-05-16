@@ -1,6 +1,10 @@
 
 ## Profile
-Highly skilled CAD/ECAD Designer and Computer Engineering student specializing in the convergence of electrical systems, industrial automation, and software development. Extensive experience in technical drawings for electrical substations and MV/LV switchboards, combined with a proven track record of developing custom software solutions, embedded systems (IoT), and process automation tools to optimize engineering workflows.
+
+Highly skilled **CAD/ECAD Designer** and **Computer Engineering student** specializing in the convergence of electrical systems, industrial automation, and software development. 
+
+* **Industrial Expertise:** Extensive experience in technical drawings for electrical substations and MV/LV switchboards.
+* **Systems & Software:** Proven track record of developing custom software solutions, embedded systems (IoT), and process automation tools to optimize engineering workflows.
 
 ---
 
