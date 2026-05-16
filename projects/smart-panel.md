@@ -30,4 +30,8 @@ This project shifts the traditional electrical panel from a passive protection e
 * **Embedded Web Server:** Serves a lightweight HTML/JavaScript dashboard hosted directly on the ESP32-S3 for real-time telemetry monitoring and manual 3-channel TRIAC dimming control over the local network.
 * **CAD Documentation:** Engineered the complete electrical schematics, power distribution diagrams, and command circuits using AutoCAD.
 
+📥 **[Download Technical Presentation (PDF)](/assets/Portefólio Técnico - Quadro IoT.pdf)**
+
+
+
 [← Back to CV](/)
