@@ -27,6 +27,6 @@ This project focuses on the advanced 3D modeling and structural engineering of a
 ---
 
 ### Download Model
-* 📁 **[Download Compact Substation 3D Model (STL File)](/MCBA_V2.stl)**
+* 📁 **[Download Compact Substation 3D Model (STL File)](assets/MCBA_V2.stl)**
 
 [← Back to CV](/)
