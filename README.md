@@ -41,26 +41,16 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 ## Selected Projects
 
 ### IoT Smart Electrical Panel with Edge Energy Management
+*Embedded Systems & Industrial Automation (RVCC Project — Distinction)*
+* Engineered a DIN-rail intelligent panel using an ESP32-S3 to automate energy management.
+* Developed firmware for real-time Modbus telemetry and autonomous load-shedding to prevent breaker trips.
+* **[View Full Technical Architecture & Source Code →](/projects/smart-panel.html)**
 
-* Embedded Systems & Industrial Automation (RVCC Technical Project — Distinction) *
-
-* Architecture & Hardware: Designed and assembled a hybrid, DIN-rail mounted intelligent electrical panel centered around an ESP32-S3 microcontroller with native RS485/CAN interfaces, eliminating external hardware fragmentation.
-* Firmware & Logic: Developed non-blocking C++ firmware (Arduino framework) utilizing millis() timers to poll consumption telemetry via Modbus RTU from an Eastron SDM230 meter.
-* Load Shedding Algorithm: Implemented a real-time edge computing algorithm that monitors active power thresholds (>3000W) and autonomously disconnects low-priority loads via Solid State Relays (SSRs) to prevent breaker trips, with automated mathematical recovery hysteresis (<2500W).
-* Thermal & Safety Engineering: Integrated an active proportional PWM cooling system driven by digital temperature sensors (DS18B20).
-* Engineered physical hardwired safety layers (E-Stop auto-retention circuit) independent of microcode state (Safety by Design).
-* HMI / UI: Programmed an embedded lightweight Web Server providing a dynamic HTML dashboard for active remote monitoring and manual 3-channel TRIAC AC phase dimming control.
-* CAD Documentation: Authored full technical documentation using AutoCAD, including general single-line power distribution schemes, multi-line command/safety schematics, and controller pinout wiring diagrams.
-
-### Workplace Internal Automation & Drawing Indexer (Matelfe Gest / CAD Vault)
-
-* Workflow Optimization & Data Management (Internal Production Tool) *
-
-* Application Development: Built and deployed a local Python application utilizing the Streamlit framework to automate engineering and manufacturing workflows.
-
-* Data Architecture: Designed and implemented a SQL database structure to index, manage, and query large repositories of metadata from CAD drawings, product proposals, and manufacturing specifications.
-
-* Impact: Replaced manual folder structures and rigid tracking methods with a centralized search interface, drastically reducing drafting-to-production turnaround times and technical documentation errors.
+### Workplace Internal Automation & Drawing Indexer (Matelfe Gest)
+*Workflow Optimization & Data Management (Internal Production Tool)*
+* Developed a local Python/Streamlit application backed by a SQL database to index and query CAD drawings.
+* Reduced drafting-to-production turnaround times and eliminated documentation tracking errors.
+* **[View System Architecture & Features →](/projects/matelfe-gest.html)**
 
 ---
 
