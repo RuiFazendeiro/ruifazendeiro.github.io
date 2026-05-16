@@ -32,7 +32,7 @@ Highly skilled CAD/ECAD Designer with extensive experience in technical drawings
 * Modeled building specialties and structural elements using **BIM software**.
 * Managed project lifecycles from field surveys to technical licensing documentation.
 
-### Engineering Assistant | My Project
+### Engineering Assistant | MyProject by Casa Gomes Engenharia
 *2021 – 2023*
 * Assisted in energy certification processes and developed technical CAD drawings for residential/commercial buildings.
 
