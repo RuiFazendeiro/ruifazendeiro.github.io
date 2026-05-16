@@ -1,7 +1,6 @@
 # Rui Fazendeiro
 **Rui Fazendeiro | CAD & Systems Developer** 
-[ruifazendeiro@outlook.pt](mailto:ruifazendeiro@outlook.pt) | Baião, Portugal
-[LinkedIn](https://www.linkedin.com/in/rfazendeiro/) | [GitHub](https://github.com/RuiFazendeiro)
+
 
 
 ---
