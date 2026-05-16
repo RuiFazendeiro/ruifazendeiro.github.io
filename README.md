@@ -18,15 +18,23 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 * Developed detailed **CAD drawings** for electrical transformer stations (substations) and industrial switchboards.
 * Conducted technical analysis of electrical systems and generated compliance reports and manuals.
 
-### CAD Designer | BC Engenharia
+### CAD Designer & Topography Technician | BC Engenharia
 *2024 – 2025*
-* Developed high-precision technical drawings for architecture and surveying using **AutoCAD**.
-* Modeled building specialties and structural elements using **BIM software**.
-* Managed project lifecycles from field surveys to technical licensing documentation.
+* Conducted field topography surveys, site data acquisition, and spatial data processing using **ArcGIS**.
+* Developed high-precision technical drawings, cross-sections, elevations, and structural documentation using **AutoCAD, Revit, and CYPE**.
+* Collaborated in cross-functional teams supporting civil engineering infrastructure projects and architectural drafting validation.
 
 ### Engineering Assistant | MyProject by Casa Gomes Engenharia
 *2021 – 2023*
 * Assisted in energy certification processes and developed technical CAD drawings for residential/commercial buildings.
+
+  
+### Laboratory Electrical Technician & CAD Designer | Yazaki Europe
+*2016 – 2019*
+* Executed electrical validation and environmental stress compliance tests on automotive wiring harnesses within the Central R&D / D&D Department.
+* Monitored and logged electrical parameters using specialized instrumentation (**Agilent data loggers, Keysight and Fluke bench multimeters**) under accelerated aging conditions (thermal shock, dynamic bending, vibration, and climate chambers).
+* Designed and engineered mechanical testing fixtures and validation **Jigs from scratch using SolidWorks**, interpreting and enforcing rigorous OEM manufacturer standards.
+* Managed laboratory calibration routines and internal quality workflows under **Lean (5S)** and ISO environments.
 
 ---
 
