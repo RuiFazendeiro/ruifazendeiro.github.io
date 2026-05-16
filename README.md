@@ -58,7 +58,8 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 *Industrial CAD & Product Engineering*
 * Engineered a fully parametric 3D assembly of a compact transformation substation using SolidWorks global variables and equations.
 * Dynamic rebuilding workflows reduce custom client design configuration times by over 70% while ensuring manufacturing tolerances.
-* **[View Parametric Architecture & Engineering Details →](/projects/compact-substation.html)**
+
+**[View Parametric Architecture & Engineering Details →](/projects/compact-substation.html)**
  
 ---
 
