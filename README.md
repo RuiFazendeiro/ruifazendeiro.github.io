@@ -1,9 +1,3 @@
-# Rui Fazendeiro
-**Rui Fazendeiro | CAD & Systems Developer** 
-
-
-
----
 
 ## Profile
 Highly skilled CAD/ECAD Designer and Computer Engineering student specializing in the convergence of electrical systems, industrial automation, and software development. Extensive experience in technical drawings for electrical substations and MV/LV switchboards, combined with a proven track record of developing custom software solutions, embedded systems (IoT), and process automation tools to optimize engineering workflows.
@@ -45,17 +39,19 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 * Engineered a DIN-rail intelligent panel using an ESP32-S3 to automate energy management.
 * Developed firmware for real-time Modbus telemetry and autonomous load-shedding to prevent breaker trips.
   
-* **[View Full Technical Architecture & Details →](/projects/smart-panel.html)**
+**[View Full Technical Architecture & Details →](/projects/smart-panel.html)**
 
 ### Workplace Internal Automation & Drawing Indexer (Matelfe Gest)
 *Workflow Optimization & Data Management (Internal Production Tool)*
 * Developed a local Python/Streamlit application backed by a SQL database to index and query CAD drawings.
 * Reduced drafting-to-production turnaround times and eliminated documentation tracking errors.
-  
-* **[View System Architecture & Features →](/projects/matelfe-gest.html)**
+
+**[View System Architecture & Features →](/projects/matelfe-gest.html)**
+ 
 ---
 
 ## Education
+
 * **BSc, Computer Science and Engineering** | Universidade Aberta (2024 – 2027)
   
 * **Electromechanical Engineering Coursework** | Universidade da Beira Interior
