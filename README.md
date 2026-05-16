@@ -25,9 +25,17 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 * Collaborated in cross-functional teams supporting civil engineering infrastructure projects and architectural drafting validation.
 
 ### Engineering Assistant | MyProject by Casa Gomes Engenharia
-*2021 – 2023*
-* Assisted in energy certification processes and developed technical CAD drawings for residential/commercial buildings.
+*2022 – 2023*
+* Assisted in official building energy certification processes, executing thermal behavior analysis and compliance checks according to national regulations.
+* Developed detailed architectural and HVAC/electrical technical CAD drawings for large-scale residential and commercial buildings.
+* Surveyed on-site technical data and translated physical measurements into high-precision digital schematics.
 
+### Field POS IT Technician | Verifone
+*2021 – 2022*
+* Responsible for on-site technical support, installation, and deployment of Point of Sale (POS) transaction terminals and financial hardware infrastructure.
+* Executed component-level **electronic repairs, hardware diagnostics, and firmware flashing/configuration** on proprietary transaction devices.
+* Conducted advanced systems troubleshooting and localized network connectivity resolution under strict client SLA targets.
+* Provided specialized technical support for operating systems and transaction software layers in the field.
   
 ### Laboratory Electrical Technician & CAD Designer | Yazaki Europe
 *2016 – 2019*
