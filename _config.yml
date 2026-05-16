@@ -14,5 +14,7 @@ description: >
   <a href="mailto:ruifazendeiro@outlook.pt">📩 Email</a> | 
   <a href="https://www.linkedin.com/in/rfazendeiro/">💼 LinkedIn</a> | 
   <a href="https://github.com/RuiFazendeiro">💻 GitHub</a>
+  <br><br>
+  📄 <a href="/assets/cv_rui_fazendeiro.pdf" target="_blank"><strong>Download CV (PDF)</strong></a>
 plugins:
 - jekyll-remote-theme
