@@ -1,5 +1,6 @@
 # Rui Fazendeiro
-**CAD Specialist | Electrical Systems & Engineering** [ruifazendeiro@outlook.pt](mailto:ruifazendeiro@outlook.pt) | Baião, Portugal
+**Rui Fazendeiro | CAD & Systems Developer** 
+[ruifazendeiro@outlook.pt](mailto:ruifazendeiro@outlook.pt) | Baião, Portugal
 [LinkedIn](https://www.linkedin.com/in/rfazendeiro/) | [GitHub](https://github.com/RuiFazendeiro)
 
 
