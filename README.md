@@ -57,3 +57,16 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 * **BSc, Computer Science and Engineering** | Universidade Aberta (2024 – 2027)
 * **Electromechanical Engineering Coursework** | Universidade da Beira Interior
 * **Electrotechnical Technician Level 4** | RVCC Certified (Distinction)
+
+## Certifications & Qualifications
+
+* **Licensed Electrotechnical Technician (Level 4 QNQ/QEQ)** | ANQEP (2025)
+  *Official qualification with Distinction. Certified for electrical installations, automation systems, and electrical machine testing. Enables official technical registration with DGEG.*
+* **Hiring Coders: Fullstack Development** | Gama Academy (2022)
+  *Intensive program focused on full-stack software architecture and software development principles.*
+* **Cloud & Systems Infrastructure** | Microsoft & Coursera (2024)
+  *Series of credentials covering Azure Cloud Services, virtual machine deployment, web server configuration, and fundamentals of AI/Machine Learning pipelines.*
+* **CAD Basics & 3D Modeling** | Onshape by PTC (2025)
+  *Validation of advanced workflows in computer-aided design and 3D parametric modeling.*
+
+> 💡 *For the complete list of verified credentials, cloud badges, and continuous industrial training (including Lean Systems & Quality Management), please inspect my **[LinkedIn Profile](https://www.linkedin.com/in/rfazendeiro/)**.*
