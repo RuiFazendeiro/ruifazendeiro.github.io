@@ -1,5 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Rui Fazendeiro | CAD Specialist
-description: Engenharia Eletromecânica & Desenho Técnico
+title: Rui Fazendeiro | CAD & Systems Developer
+description: >
+  Electrical Systems & Software Engineering
+  <br><br>
+  <a href="mailto:ruifazendeiro@outlook.pt">📩 Email</a> | 
+  <a href="https://www.linkedin.com/in/rfazendeiro/">💼 LinkedIn</a>
 plugins:
 - jekyll-remote-theme
