@@ -18,8 +18,6 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 * Developed detailed **CAD drawings** for electrical transformer stations (substations) and industrial switchboards.
 * Conducted technical analysis of electrical systems and generated compliance reports and manuals.
 
-* [Interactive 3D Model - Compact Substation (STL)](./MCBA_V2.stl)
-
 ### CAD Designer | BC Engenharia
 *2024 – 2025*
 * Developed high-precision technical drawings for architecture and surveying using **AutoCAD**.
@@ -47,6 +45,12 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 * Reduced drafting-to-production turnaround times and eliminated documentation tracking errors.
 
 **[View System Architecture & Features →](/projects/matelfe-gest.html)**
+
+### Parametric Compact Substation Design (SolidWorks)
+*Industrial CAD & Product Engineering*
+* Engineered a fully parametric 3D assembly of a compact transformation substation using SolidWorks global variables and equations.
+* Dynamic rebuilding workflows reduce custom client design configuration times by over 70% while ensuring manufacturing tolerances.
+* **[View Parametric Architecture & Engineering Details →](/projects/compact-substation.html)**
  
 ---
 
