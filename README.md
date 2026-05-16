@@ -44,14 +44,13 @@ Highly skilled CAD/ECAD Designer and Computer Engineering student specializing i
 *Embedded Systems & Industrial Automation (RVCC Project — Distinction)*
 * Engineered a DIN-rail intelligent panel using an ESP32-S3 to automate energy management.
 * Developed firmware for real-time Modbus telemetry and autonomous load-shedding to prevent breaker trips.
-* **[View Full Technical Architecture & Source Code →](/projects/smart-panel.html)**
+* **[View Full Technical Architecture & Details →](/projects/smart-panel.html)**
 
 ### Workplace Internal Automation & Drawing Indexer (Matelfe Gest)
 *Workflow Optimization & Data Management (Internal Production Tool)*
 * Developed a local Python/Streamlit application backed by a SQL database to index and query CAD drawings.
 * Reduced drafting-to-production turnaround times and eliminated documentation tracking errors.
 * **[View System Architecture & Features →](/projects/matelfe-gest.html)**
-
 ---
 
 ## Education
