@@ -6,6 +6,8 @@ title: Parametric Compact Substation Design
 # Parametric Compact Substation Design (SolidWorks)
 *Industrial CAD & Product Engineering Project*
 
+![Parametric Substation Animation](/assets/MCBA.gif)
+
 ## Project Overview
 This project focuses on the advanced 3D modeling and structural engineering of a compact electrical substation (transformation post). Instead of a static model, the entire assembly was engineered using parametric design methodologies in **SolidWorks**, allowing for rapid prototyping and automated adjustments based on custom client specifications.
 
