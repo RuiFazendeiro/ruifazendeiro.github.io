@@ -24,4 +24,17 @@ Developed to eliminate inefficiencies in managing large repositories of technica
 * Dramatically minimized the drafting-to-production turnaround time.
 * Standardized document indexing across the team, reducing search friction and accelerating project licensing validation.
 
+* <details>
+  <summary>📸 Click to view App Screenshots</summary>
+  <br>
+  <p><strong>Main Dashboard & Data Entry:</strong></p>
+  <img src="/assets/app1.png" alt="Matelfe Gest Main" width="500">
+  <br><br>
+  <p><strong>Search Engine:</strong></p>
+  <img src="/assets/app2.png" alt="Search Engine" width="500">
+  <br><br>
+  <p><strong>Data editor:</strong></p>
+  <img src="/assets/app3.png" alt="Data editor" width="500">
+</details>
+
 [← Back to CV](/)
