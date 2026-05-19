@@ -24,7 +24,7 @@ Developed to eliminate inefficiencies in managing large repositories of technica
 * Dramatically minimized the drafting-to-production turnaround time.
 * Standardized document indexing across the team, reducing search friction and accelerating project licensing validation.
 
-  <details>
+<details>
   <summary>📸 Click to view App Screenshots</summary>
   <br>
   <p><strong>Main Dashboard & Data Entry:</strong></p>
